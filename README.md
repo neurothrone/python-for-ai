@@ -53,11 +53,11 @@ Inside each section, file naming is consistent and explicit:
 
 ## Week Links
 
-- [Week 1: Introduction to Python and AI](./week-01-intro-python-ai/week-01-overview.md).
-- [Week 2: Control Flow and Functions](./week-02-control-flow-functions/week-02-overview.md).
-- [Week 3: OOP and Jupyter](./week-03-oop-jupyter/).
-- [Week 4: Git and Data Handling](./week-04-git-data-handling/).
-- [Week 5: Visualization and ML Introduction](./week-05-visualization-ml-intro/).
-- [Week 6: Advanced Machine Learning](./week-06-advanced-machine-learning/).
-- [Week 7: Deep Learning and Neural Networks](./week-07-deep-learning-neural-networks/).
-- [Week 8: Projects and AI Ethics](./week-08-projects-ai-ethics/).
+- [Week 1: Introduction to Python and AI](./week-01-intro-python-ai/week-01-overview.md)
+- [Week 2: Control Flow and Functions](./week-02-control-flow-functions/week-02-overview.md)
+- [Week 3: OOP and Jupyter](./week-03-oop-jupyter/week-03-overview.md)
+- [Week 4: Git and Data Handling](./week-04-git-data-handling/week-04-overview.md)
+- [Week 5: Visualization and ML Introduction](./week-05-visualization-ml-intro/week-05-overview.md)
+- [Week 6: Advanced Machine Learning](./week-06-advanced-machine-learning/week-06-overview.md)
+- [Week 7: Deep Learning and Neural Networks](./week-07-deep-learning-neural-networks/week-07-overview.md)
+- [Week 8: Projects and AI Ethics](./week-08-projects-ai-ethics/week-08-overview.md)
