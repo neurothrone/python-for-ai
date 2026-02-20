@@ -1,4 +1,4 @@
-# Python Programming for AI Development (30 Credits)
+# Python Programming for AI Development
 
 This repository contains course learning resources in Markdown, organized week by week with a clear progression from
 Python basics to applied AI projects.
