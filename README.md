@@ -9,6 +9,7 @@ Python basics to applied AI projects.
 - [Technologies and Tools](#technologies-and-tools)
 - [Weekly Structure](#weekly-structure)
 - [Week Links](#week-links)
+- [Resources](#resources)
 
 ## Course Overview
 
@@ -61,3 +62,7 @@ Inside each section, file naming is consistent and explicit:
 - [Week 6: Advanced Machine Learning](./week-06-advanced-machine-learning/week-06-overview.md)
 - [Week 7: Deep Learning and Neural Networks](./week-07-deep-learning-neural-networks/week-07-overview.md)
 - [Week 8: Projects and AI Ethics](./week-08-projects-ai-ethics/week-08-overview.md)
+
+## Resources
+
+- [Learning Resources](./resources/learning-resources.md)
