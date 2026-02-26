@@ -34,6 +34,18 @@ number = int(value)
 print(number)
 ```
 
+Expected behavior:
+
+```text
+The program should print 3.14 as a number.
+```
+
+Actual behavior:
+
+```text
+It raises a ValueError because int() cannot convert a decimal string like "3.14".
+```
+
 ## Self-Review
 
 - I used `str`, `int`, `float`, or `bool` intentionally.
