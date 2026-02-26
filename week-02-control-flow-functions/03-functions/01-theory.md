@@ -28,7 +28,7 @@ People often use these words as if they are the same. They are close, but not id
 def greet_user(name):  # name is a parameter
     print("Hello, " + name)
 
-greet_user("Mina")    # "Mina" is an argument
+greet_user("Mina")  # "Mina" is an argument
 ```
 
 ## Return Values vs Print
