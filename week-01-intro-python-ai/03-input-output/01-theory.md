@@ -1,8 +1,5 @@
 # 01. Theory: Input and Output
 
-> **Bonus**: Watch a video walkthrough:<br>
-> https://youtu.be/1ySaSOOHZjU?si=XyQgROIayZfT1GVC
-
 ## Why This Matters
 
 Input and output are the foundation of almost every program. If you can receive data, process it, and present clear

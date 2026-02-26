@@ -1,10 +1,5 @@
 # 01. Theory: Data Types and Variables
 
-> **Bonus**: Watch video walkthroughs:
-> - https://youtu.be/-E9awitSX18?si=7l63GiqFh0REvV7w
-> - https://youtu.be/iJyQPbp3VK4?si=AKLnmw-IVPqABM3z
-> - https://youtu.be/hl-KxCTbrXI?si=-j_x4SouClbcUobd
-
 ## Why This Matters
 
 Data types and variables are the building blocks of all Python code. When students understand what kind of data they are
