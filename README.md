@@ -66,3 +66,4 @@ Inside each section, file naming is consistent and explicit:
 ## Resources
 
 - [Learning Resources](./resources/learning-resources.md)
+- [YouTube Course Videos](./resources/youtube-links.md)
