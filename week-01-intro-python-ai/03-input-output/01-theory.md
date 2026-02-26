@@ -28,6 +28,18 @@ print("Hello, " + name)
 
 If you need numbers, convert input with `int()` or `float()`.
 
+## Combining Text and Values
+
+At first, use concatenation with `+`:
+
+```python
+name = "Lina"
+age = 20
+print("Name: " + name + ", age: " + str(age))
+```
+
+You need `str(age)` because text can only be joined with text.
+
 ## Navigation
 
 - ⬅️ Previous: [04-pycharm-setup-optional.md](./../02-setup/04-pycharm-setup-optional.md).

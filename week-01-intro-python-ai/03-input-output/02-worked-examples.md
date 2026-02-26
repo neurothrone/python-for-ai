@@ -4,7 +4,7 @@
 
 ```python
 name = input("Enter your name: ")
-print(f"Hello, {name}!")
+print("Hello, " + name + "!")
 ```
 
 ## Example B: Age Next Year
@@ -12,18 +12,24 @@ print(f"Hello, {name}!")
 ```python
 age_text = input("Enter your age: ")
 age = int(age_text)
-print(f"Next year you will be {age + 1}.")
+print("Next year you will be " + str(age + 1) + ".")
 ```
 
-## Example C: Formatted Output
+## Example C: City and Country Output
 
 ```python
 city = input("City: ")
 country = input("Country: ")
-print(f"You live in {city}, {country}.")
+print("You live in " + city + ", " + country + ".")
 ```
 
-## Example D: Why f-strings are preferred
+## Example D: Formatting Text in Different Ways
+
+In previous examples, we used concatenation. With concatenation, numbers must be converted to text with `str()`.
+
+`format()` and f-strings are often easier to read because you can place values directly in a text template.
+
+`:.2f` means "show this float with two digits after the decimal point."
 
 ```python
 name = "Ana"
@@ -32,10 +38,10 @@ score = 9.456
 # Concatenation (works, but is less readable)
 print("Student " + name + " scored " + str(round(score, 2)))
 
-# format() (better, but still more verbose)
+# format() (clear template, no manual str())
 print("Student {} scored {:.2f}".format(name, score))
 
-# f-string (recommended for readability)
+# f-string (recommended for readability, no manual str())
 print(f"Student {name} scored {score:.2f}")
 ```
 
