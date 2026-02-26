@@ -67,3 +67,4 @@ Inside each section, file naming is consistent and explicit:
 
 - [Learning Resources](./resources/learning-resources.md)
 - [YouTube Course Videos](./resources/youtube-links.md)
+- [Course Source Code Repository](https://github.com/neurothrone/python-for-ai-source-code)

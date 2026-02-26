@@ -5,6 +5,7 @@ Use this page as the central place for course videos.
 ## Full Playlist
 
 - [Python for AI - Full Playlist](https://www.youtube.com/playlist?list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Course Source Code Repository](https://github.com/neurothrone/python-for-ai-source-code)
 
 ## Week 1
 
