@@ -9,8 +9,6 @@ and write small programs using input, output, variables, and basic data types.
 
 ## Week 1 Videos
 
-- [Week 1 Playlist](https://www.youtube.com/playlist?list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
-- [All Course Video Links](../resources/youtube-links.md)
 - [Week 1.1 - Setup: Install Python on Windows 11](https://www.youtube.com/watch?v=FL-Kwokp32A)
 - [Week 1.2 - Setup: Install Visual Studio Code and Python extension](https://www.youtube.com/watch?v=AvRwZhRyHZA)
 - [Week 1.3 - Setup: Install Git](https://www.youtube.com/watch?v=UWyL7jVmU9g)
@@ -19,6 +17,10 @@ and write small programs using input, output, variables, and basic data types.
 - [Week 1.6 - Intro: Data Types and Variables](https://www.youtube.com/watch?v=-E9awitSX18)
 - [Week 1.7 - Intro: Worked Example - Improve Readability](https://www.youtube.com/watch?v=iJyQPbp3VK4)
 - [Week 1.8 - Intro: Worked Example - Improve Usability](https://www.youtube.com/watch?v=hl-KxCTbrXI)
+
+You can also find links to all other videos in this course here:
+
+- [All Course Video Links](../resources/youtube-links.md)
 
 ## Video-First Path (Optional)
 

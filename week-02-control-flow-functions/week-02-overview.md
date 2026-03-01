@@ -9,8 +9,6 @@ and write small functions with parameters and return values.
 
 ## Week 2 Videos
 
-- [Week 2 Playlist](https://www.youtube.com/playlist?list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
-- [All Course Video Links](../resources/youtube-links.md)
 - [Week 2.1 - Conditionals: Overview](https://www.youtube.com/watch?v=Uf41BxRC274)
 - [Week 2.2 - Conditionals: If Statement and Comparison Operators](https://www.youtube.com/watch?v=xWVg9QPvZd4)
 - [Week 2.3 - Conditionals: if-elif-else Statements](https://www.youtube.com/watch?v=i5UJbc5dbWE)
@@ -21,6 +19,10 @@ and write small functions with parameters and return values.
 - [Week 2.8 - Loops: Practical Example](https://www.youtube.com/watch?v=PyxpGgj6j5A)
 - [Week 2.9 - Functions: Basics](https://www.youtube.com/watch?v=Xm9_1-CCiqs)
 - [Week 2.10 - Functions: Indata, Outdata and Practical Example](https://www.youtube.com/watch?v=f1IPwAWnrbg)
+
+You can also find links to all other videos in this course here:
+
+- [All Course Video Links](../resources/youtube-links.md)
 
 ## Video-First Path (Optional)
 
