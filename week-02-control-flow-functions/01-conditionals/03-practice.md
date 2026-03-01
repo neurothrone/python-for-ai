@@ -104,6 +104,10 @@ It raises an IndentationError because the first print line is not indented.
 - I tested boundary values (like `18`, `75`, `90`).
 - I fixed both type and indentation bugs.
 
+## Quick Reference
+
+- [Python Operators Reference](../../resources/python-operators-reference.md)
+
 ## Navigation
 
 - ⬅️ Previous: [02-worked-examples.md](./02-worked-examples.md).

@@ -12,6 +12,8 @@ Use this page as a central reference library for the course.
 
 ### Python
 
+- [Python Operators Reference (Course)](./python-operators-reference.md): Arithmetic and comparison operators with
+  simple examples.
 - [DataCamp Python Basics Cheat Sheet](https://media.datacamp.com/cms/python-basics-cheat-sheet-v4.pdf): Concise
   syntax and examples.
 - [QuickRef Python](https://quickref.me/python): Fast one-page command and syntax recall.

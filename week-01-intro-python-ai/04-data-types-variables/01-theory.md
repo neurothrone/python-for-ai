@@ -42,6 +42,10 @@ print(a * b)
 print(a / b)
 ```
 
+## Quick Reference
+
+- [Python Operators Reference](../../resources/python-operators-reference.md)
+
 ## Navigation
 
 - ⬅️ Previous: [05-reflection.md](./../03-input-output/05-reflection.md).

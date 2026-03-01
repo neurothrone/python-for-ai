@@ -31,6 +31,10 @@ else:
 - `>=` greater than or equal
 - `<=` less than or equal
 
+For a full quick table, see:
+
+- [Python Operators Reference](../../resources/python-operators-reference.md)
+
 ## Boolean Logic
 
 Use `and` when both conditions must be true.

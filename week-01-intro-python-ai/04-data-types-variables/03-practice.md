@@ -52,6 +52,10 @@ It raises a ValueError because int() cannot convert a decimal string like "3.14"
 - I used clear variable names.
 - I converted input before doing arithmetic.
 
+## Quick Reference
+
+- [Python Operators Reference](../../resources/python-operators-reference.md)
+
 ## Navigation
 
 - ⬅️ Previous: [02-worked-examples.md](./02-worked-examples.md).
