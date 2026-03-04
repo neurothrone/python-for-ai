@@ -26,9 +26,9 @@ You can also find links to all other videos in this course here:
 
 If you prefer to learn by watching first, use this order:
 
-1. Watch the Week 1 playlist.
-2. Do `01-theory.md` and `02-worked-examples.md` for the matching topic.
-3. Do `03-practice.md` after each topic.
+1. Watch the Week 1 videos listed above.
+2. Read `01-theory.md` and `02-worked-examples.md`.
+3. Do `03-practice.md` to apply what you learned.
 4. Do `04-challenge.md` if you want extra practice (optional).
 5. Do `05-reflection.md` to check what you remember.
 
