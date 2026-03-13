@@ -28,7 +28,7 @@ You can also find links to all other videos in this course here:
 
 If you prefer to learn by watching first, use this order:
 
-1. Watch the Week 2 videos listed above.
+1. Watch this week's videos listed above.
 2. Read `01-theory.md` and `02-worked-examples.md`.
 3. Do `03-practice.md` to apply what you learned.
 4. Do `04-challenge.md` if you want extra practice (optional).

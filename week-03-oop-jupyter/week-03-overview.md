@@ -9,7 +9,7 @@ methods, and connect functions and state in one small class-based program.
 
 ## Week 3 Videos
 
-Core Week 3 videos for this week's scope:
+Core videos for this week's scope:
 
 - [Week 3.1 - Jupyter Notebooks: Getting Started](https://www.youtube.com/watch?v=vVXwv9_3vGA)
 - [Week 3.2 - Jupyter Notebooks: Interface Tour](https://www.youtube.com/watch?v=pFSAwHv4zBA)
@@ -31,7 +31,9 @@ You can also find links to all other videos in this course here:
 
 ## Video-First Path (Optional)
 
-1. Watch playlist.
+If you prefer to learn by watching first, use this order:
+
+1. Watch this week's videos listed above.
 2. Read `01-theory.md` and `02-worked-examples.md`.
 3. Do `03-practice.md` to apply what you learned.
 4. Do `04-challenge.md` if you want extra practice (optional).
