@@ -73,8 +73,7 @@ These errors are useful clues. They often tell you whether the problem is the fi
 
 ## Checking If a File Exists
 
-Sometimes you want to check for a file before reading it.
-One common way is `Path.exists()` from `pathlib`.
+Sometimes you want to check for a file before reading it. One common way is `Path.exists()` from `pathlib`.
 
 ```python
 from pathlib import Path
@@ -87,14 +86,27 @@ else:
     print("File missing")
 ```
 
-`exists()` is not a special Python keyword by itself.
-It is a method on a `Path` object.
+The `exists()` method is not a special Python keyword by itself. It is a method on a `Path` object.
+
+You may also see the older `os` style:
+
+```python
+import os
+
+if os.path.exists("notes.txt"):
+    print("File found")
+else:
+    print("File missing")
+```
+
+This also works. In this course, we prefer `pathlib` because it reads more clearly and treats file paths as objects
+instead of plain text. That often makes code easier to understand and extend.
 
 This can be useful before:
 
-- reading a file that may not exist yet
-- creating a file with `"x"` mode
-- warning the user before overwriting something
+- Reading a file that may not exist yet.
+- Creating a file with `"x"` mode.
+- Warning the user before overwriting something.
 
 ## Reading a Whole File or Line by Line
 
