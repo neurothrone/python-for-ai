@@ -9,17 +9,12 @@ methods, and connect functions and state in one small class-based program.
 
 ## Week 3 Videos
 
-Core videos for this week's scope:
-
 - [Week 3.1 - Jupyter Notebooks: Getting Started](https://www.youtube.com/watch?v=vVXwv9_3vGA)
 - [Week 3.2 - Jupyter Notebooks: Interface Tour](https://www.youtube.com/watch?v=pFSAwHv4zBA)
 - [Week 3.3 - Jupyter Notebooks: Working with Lists](https://www.youtube.com/watch?v=5kydjJ9Rb5w)
 - [Week 3.4 - OOP: Object-Oriented Programming Basics](https://www.youtube.com/watch?v=7sbrcrt8zAg)
 - [Week 3.5 - OOP: Class Attributes vs. Instance Attributes](https://www.youtube.com/watch?v=3y-VYkpXEME)
 - [Week 3.6 - OOP: Practical Example](https://www.youtube.com/watch?v=QbiWz-Vap6c)
-
-Optional extension videos:
-
 - [Week 3.7 - Python Imports: Using Code from Other Files](https://www.youtube.com/watch?v=px6e73x4V2c)
 - [Week 3.8 - The `__main__` Pattern Explained](https://www.youtube.com/watch?v=gYbDb2_IAS0)
 - [Week 3.9 - Absolute vs. Relative Imports](https://www.youtube.com/watch?v=Xy_trBIkz6Q)
