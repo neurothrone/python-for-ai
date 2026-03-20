@@ -23,6 +23,21 @@
 6. Commit the script and cleaned CSV with the message `add script and cleaned dataset`.
 7. Run `git log --oneline` and verify at least two commits.
 
+Use `pathlib` in the script so it can find `data/students.csv` even when the script lives inside `scripts/`.
+
+Starter idea:
+
+```python
+from pathlib import Path
+
+import pandas as pd
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+
+df = pd.read_csv(DATA_DIR / "students.csv")
+```
+
 ## Expected Output Examples
 
 Possible script output:
@@ -60,7 +75,7 @@ You expected the script to load the dataset.
 Actual behavior:
 
 ```text
-It raises FileNotFoundError because the file is in data/students.csv.
+It raises FileNotFoundError because the file is in data/students.csv, not in the same folder as the script.
 ```
 
 ## Debug Task 2
@@ -90,7 +105,7 @@ Code:
 
 ```python
 df["score"] = df["score"].fillna(0)
-df.to_csv("data/students.csv", index=False)
+df.to_csv(DATA_DIR / "students.csv", index=False)
 ```
 
 Expected behavior:

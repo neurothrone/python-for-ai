@@ -22,17 +22,28 @@ A typical data workflow often looks like this:
 
 This workflow helps you stay organized and avoid confusion.
 
+If you keep CSV files in `data/` and Python files in `scripts/`, your script needs a clear way to find the file. A
+simple way to do that is to use `pathlib`.
+
 ## DataFrame in Simple Words
 
 A DataFrame is like a table with rows and columns.
 
 ```python
+from pathlib import Path
+
 import pandas as pd
 
-df = pd.read_csv("students.csv")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+
+df = pd.read_csv(DATA_DIR / "students.csv")
 
 print(df.head())
 ```
+
+`Path(__file__).resolve().parent.parent` means "start from this script file, then go up to the project folder." That
+helps if the script is inside `scripts/` and the CSV is inside `data/`.
 
 ## Series vs DataFrame
 
@@ -51,9 +62,9 @@ print(type(names))
 `df["name"]` returns a Series, not a full DataFrame. This matters because some actions work on one column and some work
 on the whole table.
 
-## Core Beginner Operations
+## Core Operations
 
-- `pd.read_csv("file.csv")` load CSV.
+- `pd.read_csv(DATA_DIR / "file.csv")` load a CSV from the `data/` folder.
 - `df.head()` preview first rows (5 by default, change with the `n` parameter).
 - `df.shape` check number of rows and columns.
 - `df.info()` inspect column types and missing values quickly.
@@ -63,7 +74,7 @@ on the whole table.
 - `df.isna().sum()` count missing values.
 - `df["score"] = df["score"].fillna(0)` fill simple null values.
 - `df["score"] = df["score"].astype(int)` convert values to integers.
-- `df.to_csv("cleaned.csv", index=False)` save cleaned data.
+- `df.to_csv(DATA_DIR / "cleaned.csv", index=False)` save cleaned data.
 
 ## Cleaning vs. Transforming
 

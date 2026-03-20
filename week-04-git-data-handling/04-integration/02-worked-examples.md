@@ -33,9 +33,14 @@ git commit -m "add raw students dataset"
 Create `scripts/clean_students.py` with this content:
 
 ```python
+from pathlib import Path
+
 import pandas as pd
 
-df = pd.read_csv("data/students.csv")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+
+df = pd.read_csv(DATA_DIR / "students.csv")
 
 print(df.head())
 print(df.columns)
@@ -45,12 +50,14 @@ df["score"] = df["score"].fillna(0)
 df["score"] = df["score"].astype(int)
 df["passed"] = df["score"] >= 75
 
-df.to_csv("data/students_cleaned.csv", index=False)
+df.to_csv(DATA_DIR / "students_cleaned.csv", index=False)
 
 print(df.isna().sum())
 print(df[["name", "score", "passed"]])
 print("Saved: data/students_cleaned.csv")
 ```
+
+We use `pathlib` here because the script is inside `scripts/`, while the CSV files are inside `data/`.
 
 Run the script and commit the new file:
 

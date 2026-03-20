@@ -1,8 +1,14 @@
 # 03. Practice: Pandas Basics
 
-## Tasks
+## Setup
 
-1. Create `students_pandas.csv` with this content:
+1. Create a folder called `week4-pandas-practice`.
+2. Inside it, create these folders:
+   ```text
+   data/
+   scripts/
+   ```
+3. Create `data/students_pandas.csv` with this content:
     ```text
     name,score,city
     Ana,92,Stockholm
@@ -10,17 +16,33 @@
     Lia,78,Malmo
     Noa,74,Uppsala
     ```
-2. Load the CSV with Pandas.
-3. Print `df.head()`, `df.columns`, and `df.shape`.
-4. Run `df.info()` to inspect column types.
-5. Print only the `name` column and notice that it is a Series.
-6. Print the row at index `1`.
-7. Check missing values with `df.isna().sum()`.
-8. Replace missing `score` values with `0`.
-9. Convert `score` back to `int` with `astype(int)`.
-10. Create a new column `passed` that is `True` when the score is 75 or more.
-11. Print only columns `name`, `score`, and `passed`.
-12. Save the cleaned and transformed table to `students_pandas_cleaned.csv`.
+4. Create `scripts/process_students_pandas.py` with this starter code:
+   ```python
+   from pathlib import Path
+   
+   import pandas as pd
+   
+   BASE_DIR = Path(__file__).resolve().parent.parent
+   DATA_DIR = BASE_DIR / "data"
+   
+   df = pd.read_csv(DATA_DIR / "students_pandas.csv")
+   ```
+
+`pathlib` helps the script find the CSV in `data/` even when the script lives in `scripts/`.
+
+## Tasks
+
+1. Load the CSV with Pandas.
+2. Print `df.head()`, `df.columns`, and `df.shape`.
+3. Run `df.info()` to inspect column types.
+4. Print only the `name` column and notice that it is a Series.
+5. Print the row at index `1`.
+6. Check missing values with `df.isna().sum()`.
+7. Replace missing `score` values with `0`.
+8. Convert `score` back to `int` with `astype(int)`.
+9. Create a new column `passed` that is `True` when the score is 75 or more.
+10. Print only columns `name`, `score`, and `passed`.
+11. Save the cleaned and transformed table to `data/students_pandas_cleaned.csv`.
 
 ## Expected Output Examples
 
@@ -122,7 +144,7 @@ The values may look like 92.0 and 78.0 because Pandas used float for the column 
 Code:
 
 ```python
-df.to_csv("students_pandas.csv", index=False)
+df.to_csv(DATA_DIR / "students_pandas.csv", index=False)
 ```
 
 Expected behavior:

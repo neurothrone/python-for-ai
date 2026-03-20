@@ -31,6 +31,8 @@ week4-mini-project/
     clean_students.py
 ```
 
+If the script is stored in `scripts/`, `pathlib` helps it find files in `data/` reliably.
+
 ## Suggested Commit Sequence
 
 - `initial commit`

@@ -35,7 +35,7 @@ Possible script output:
 0      Pen               30
 1     Book                0
 2      Bag              120
-Total stock: 48
+Total stock: 8
 Saved: data/products_cleaned.csv
 ```
 
@@ -58,6 +58,8 @@ Keep each commit focused on a single task. One simple order is:
 - Transform with `inventory_value`.
 - Save `products_cleaned.csv`.
 - Commit the script and cleaned output together.
+
+If your script is inside `scripts/`, use `pathlib` so it can clearly find files in `data/`.
 
 ## Navigation
 
