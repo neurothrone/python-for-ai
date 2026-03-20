@@ -75,3 +75,17 @@ Use this page as the central place for course videos.
 - [Week 4.18 - Pandas: Load and Inspect Data](https://www.youtube.com/watch?v=szvnz1jv2d4&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
 - [Week 4.19 - Pandas: Clean Data](https://www.youtube.com/watch?v=qadT8WiQZ48&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
 - [Week 4.20 - Pandas: Integration Mini Data Workflow Demo](https://www.youtube.com/watch?v=o7LxLY95cQE&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+
+## Week 5: Visualization & ML Introduction
+
+- [Python for AI - Week 5.1 - Setup: VS Code, Data Files & Package Check](https://www.youtube.com/watch?v=qIfsoO9cuIc&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.2 - Matplotlib: First Plot with Hardcoded Values](https://www.youtube.com/watch?v=u3MYwqLB_oI&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.3 - Matplotlib: Three Ways to Plot in VS Code](https://www.youtube.com/watch?v=YJXt_dsMsT4&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.4 - Matplotlib:
+  `pathlib` File Paths Across Plotting Approaches](https://www.youtube.com/watch?v=Ag4g8exk8SI&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.5 - Matplotlib: Basics with Hybrid Cells](https://www.youtube.com/watch?v=RD6spvI9dYc&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.6 - Seaborn: Setup & Organizing the Project Files](https://www.youtube.com/watch?v=K4a2WjxBY8Q&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.7 - Seaborn: First Look with a Built-in Dataset](https://www.youtube.com/watch?v=1dTmcAVeNZ0&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.8 - Seaborn: Basics with Real CSV Files](https://www.youtube.com/watch?v=TGw8eENra-Y&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.9 - Linear Regression: First Simple Model in Python](https://www.youtube.com/watch?v=6KnZOxWaoiE&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
+- [Python for AI - Week 5.10 - Integration: From Visualization to Prediction](https://www.youtube.com/watch?v=pQLu-578ago&list=PLQ10yv3WDdnYsEqGoAq6Komz_BWNBOY6q)
