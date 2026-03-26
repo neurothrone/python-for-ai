@@ -44,4 +44,4 @@ Write 3-5 sentences:
 ## Navigation
 
 - 🧭 Week Overview: [week-01-overview.md](../week-01-overview.md).
-- ➡️ Next: [02-course-roadmap.md](./02-course-roadmap.md).
+- ➡️ Next: [02-ai-and-ml-in-simple-words.md](./02-ai-and-ml-in-simple-words.md).

@@ -1,4 +1,4 @@
-# 02. Course Roadmap (8 Weeks)
+# 04. Course Roadmap (8 Weeks)
 
 ## Roadmap
 
@@ -25,6 +25,6 @@ By the end of the course, students can:
 
 ## Navigation
 
-- ⬅️ Previous: [01-what-is-python-and-ai.md](./01-what-is-python-and-ai.md).
+- ⬅️ Previous: [03-ai-ethics-and-human-bias.md](./03-ai-ethics-and-human-bias.md).
 - 🧭 Week Overview: [week-01-overview.md](../week-01-overview.md).
 - ➡️ Next: [01-python-setup.md](./../02-setup/01-python-setup.md).

@@ -4,8 +4,9 @@ This page is the starting point for Week 1.
 
 ## Week Goal
 
-By the end of Week 1, students should be able to explain why Python is used in AI, set up a working Python environment,
-and write small programs using input, output, variables, and basic data types.
+By the end of Week 1, students should be able to explain why Python is used in AI, describe AI and ML in simple terms,
+name one everyday AI example and one basic ethical risk, set up a working Python environment, and write small programs
+using input, output, variables, and basic data types.
 
 ## Week 1 Videos
 
@@ -37,7 +38,9 @@ If you prefer to learn by watching first, use this order:
 ### 01. Intro
 
 1. Read Introduction: [01-what-is-python-and-ai.md](./01-intro/01-what-is-python-and-ai.md).
-2. Review Course Roadmap: [02-course-roadmap.md](./01-intro/02-course-roadmap.md).
+2. Read AI and ML Basics: [02-ai-and-ml-in-simple-words.md](./01-intro/02-ai-and-ml-in-simple-words.md).
+3. Read AI Ethics and Human Bias: [03-ai-ethics-and-human-bias.md](./01-intro/03-ai-ethics-and-human-bias.md).
+4. Review Course Roadmap: [04-course-roadmap.md](./01-intro/04-course-roadmap.md).
 
 ### 02. Setup
 
@@ -65,6 +68,8 @@ If you prefer to learn by watching first, use this order:
 ## Week 1 Completion Checklist
 
 - I can explain one reason Python is common in AI.
+- I can explain the difference between AI and Machine Learning in simple terms.
+- I can name one everyday AI example and one ethical risk such as biased training data.
 - I can run a Python program in my selected editor.
 - I can use `input()` and `print()` correctly.
 - I can use `str`, `int`, `float`, and `bool` in small programs.

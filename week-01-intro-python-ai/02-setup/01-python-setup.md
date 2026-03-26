@@ -49,6 +49,6 @@ python3 --version
 
 ## Navigation
 
-- ⬅️ Previous: [02-course-roadmap.md](./../01-intro/02-course-roadmap.md).
+- ⬅️ Previous: [04-course-roadmap.md](./../01-intro/04-course-roadmap.md).
 - 🧭 Week Overview: [week-01-overview.md](../week-01-overview.md).
 - ➡️ Next: [02-vscode-setup.md](./02-vscode-setup.md).
