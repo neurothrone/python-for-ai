@@ -1,0 +1,10 @@
+id,first_name,last_name,age,city,score,favorite_foods
+A100,Jane,Doe,39,London,82,"pizza,pasta"
+A101,captain,Fluffy,14,PetTown,91,"tuna,salmon"
+A102, frodo ,Baggins,28,Shire,76,"bread,cheese"
+A103,James,Bond,45,London,99,"martini,steak"
+A104,Sarah, Connor,,Los Angeles,88,"steak,eggs"
+A105,John,McClane,unknown,New York,85,"pizza,beer"
+A106,Leia,Organa ,29,Alderaan,not_available,"cake,fruit"
+A107,Tony, Stark,48,Malibu,100,"burger,fries"
+A108,Jane,Doe,39,London,82,"pizza,pasta"

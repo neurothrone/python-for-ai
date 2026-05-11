@@ -1,0 +1,9 @@
+first_name,last_name,age,city,score,favorite_foods,full_name,age_next_year,score_bonus,passed_test,favorite_food_list
+Jane,Doe,39,London,82,"pizza,pasta",Jane Doe,40,87,True,"['pizza', 'pasta']"
+Captain,Fluffy,14,Pettown,91,"tuna,salmon",Captain Fluffy,15,96,True,"['tuna', 'salmon']"
+Frodo,Baggins,28,Shire,76,"bread,cheese",Frodo Baggins,29,81,True,"['bread', 'cheese']"
+James,Bond,45,London,99,"martini,steak",James Bond,46,104,True,"['martini', 'steak']"
+Sarah,Connor,39,Los Angeles,88,"steak,eggs",Sarah Connor,40,93,True,"['steak', 'eggs']"
+John,McClane,39,New York,85,"pizza,beer",John McClane,40,90,True,"['pizza', 'beer']"
+Leia,Organa,29,Alderaan,0,"cake,fruit",Leia Organa,30,5,False,"['cake', 'fruit']"
+Tony,Stark,48,Malibu,100,"burger,fries",Tony Stark,49,105,True,"['burger', 'fries']"
