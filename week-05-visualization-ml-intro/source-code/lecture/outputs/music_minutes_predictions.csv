@@ -1,0 +1,5 @@
+age,gender,actual_minutes,predicted_minutes,difference
+27,0,98,90.6,-7.4
+31,0,114,114.7,0.7
+20,1,110,110.5,0.5
+34,0,126,132.8,6.8
